@@ -1,0 +1,5 @@
+plugins:
+  mailing_list_suppress_user_enabled:
+    default: true
+  mailing_list_suppress_user_username:
+    default: ""

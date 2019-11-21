@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    mailing_list_suppress_user_enabled: "Mailing list: suppress posts from specific user?"
+    mailing_list_suppress_user_username: "Username (case sensitive)"
